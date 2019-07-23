@@ -1,0 +1,4 @@
+HOST=localhost
+DBUSER=user
+DBPASS=password
+DB=database
